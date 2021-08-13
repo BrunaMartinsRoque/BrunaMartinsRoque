@@ -4,12 +4,12 @@ Meu nome é Bruna,
 
 - 🔭 Eu atualmente estou em busca do meu primeiro emprego na área.
 - 🌱 Eu estudo técnico em Análises e Desenvolvimento de Sistemas, Fullstack e SAP.
-- 📫 E-mail:buhh_martins@hotmail.com.
+- 📫 E-mail: buhh_martins@hotmail.com.
 
 <div>
   <a href="https://github.com/BrunaMartinsRoque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunamartinsroque&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamartinsroque&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunamartinsroque&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamartinsroque&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
