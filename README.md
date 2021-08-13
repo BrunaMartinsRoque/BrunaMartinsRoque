@@ -20,3 +20,4 @@ Meu nome é Bruna,
   
   ##
 
+ ![Snake animation](https://github.com/brunamartinsroque/brunamartinsroque/blob/output/github-contribution-grid-snake.svg)
